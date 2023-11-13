@@ -12,6 +12,17 @@ The project emphasizes the seamless interplay between **MySQL** and **PostgreSQL
 <pre>PUT /update/mong/{id} - Update entity details based on ID for MySQL</pre>
 <pre>DELETE /delete/post/{id} - Delete entity details based on ID for PostgreSQL</pre>
 <pre>DELETE /delete/mong/{id} - Delete entity details based on ID for MySQL</pre>
+![Screenshot (119)](https://github.com/manuo9/Ecom_proteinz/assets/122933806/73dd1979-4c7f-42ef-b0e5-e8ede4535dee)
+<hr>
+
+![Screenshot (120)](https://github.com/manuo9/Ecom_proteinz/assets/122933806/82d4b0dd-410a-4ca1-925c-4d0d1f39dcb2)
+<hr>
+
+![Screenshot (121)](https://github.com/manuo9/Ecom_proteinz/assets/122933806/51d43223-654d-4a6c-aaf1-02ade7241a41)
+<hr>
+
+![Screenshot (122)](https://github.com/manuo9/Ecom_proteinz/assets/122933806/40f1f4dd-6b43-487d-b7d6-d4890b9054b1)
+<hr>
 
 ## Database Configuration
 <pre># MySQL Configuration
