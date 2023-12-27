@@ -37,7 +37,7 @@ spring.postgresql.datasource.password=root
 </pre>
 
  ## Contributing 
- <h4> We welcome contributions to Proteinz! Whether it's bug fixes, new features, or improvements to the documentation, your contributions help make this project better for everyone.</h4>
+ <h4> We welcome contributions to this Project Whether it's bug fixes, new features, or improvements to the documentation, your contributions help make this project better for everyone.</h4>
 
  ## Contributing 
  
